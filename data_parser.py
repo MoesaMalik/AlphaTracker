@@ -1,7 +1,7 @@
 import csv
 from collections import defaultdict
 
-	# defaultdict saves you from having to initialize lists for every header
+	
 
 def parse_csv(filename):
 	value_dict = defaultdict(list)
